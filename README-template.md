@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/social-links-profile-Pf3YCM0W13)
 - Live Site URL: [Add live site URL here](https://victoryruro.github.io/social-links-profile-main-real/)
 
 ## My process
