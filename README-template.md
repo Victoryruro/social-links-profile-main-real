@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://victoryruro.github.io/social-links-profile-main-real/)
 
 ## My process
 started basically by giving the website a skeletal structure , then added the css to give it the style
